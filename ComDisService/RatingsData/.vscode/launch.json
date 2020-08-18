@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<comdisinfo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.comdisrating.comdisratingid.DemoApplication",
+            "projectName": "comdisinfo",
+            "args": ""
+        }
+    ]
+}

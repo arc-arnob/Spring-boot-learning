@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<spring-boot-cloud>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.springboot.springbootcloud.DemoApplication",
+            "projectName": "spring-boot-cloud",
+            "args": ""
+        }
+    ]
+}

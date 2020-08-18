@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<api-call>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.demoapicall.apicall.DemoApplication",
+            "projectName": "api-call",
+            "args": ""
+        }
+    ]
+}

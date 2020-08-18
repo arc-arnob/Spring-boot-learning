@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<catalog-d>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.comdis.catalogd.DemoApplication",
+            "projectName": "catalog-d",
+            "args": ""
+        }
+    ]
+}
