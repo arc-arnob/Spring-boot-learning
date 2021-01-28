@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MultipleJpaApplication<multiple-jpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.multiplejpa.multiplejpa.MultipleJpaApplication",
+            "projectName": "multiple-jpa",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DatabaseAppApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.talk2amareswaran.projects.databaseapp.DatabaseAppApplication",
+            "args": ""
+        }
+    ]
+}
